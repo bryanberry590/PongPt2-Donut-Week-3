@@ -1936,7 +1936,7 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: 1d867db396e094cc5b10d112861bf41f, type: 3}
     volume: 0.1
     pitch: 1.1
-    loop: 0
+    loop: 1
     source: {fileID: 0}
   - name: metalClang
     clip: {fileID: 8300000, guid: f2750a7f0cb07498996e69ba9d2bb5b9, type: 3}
